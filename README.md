@@ -1,8 +1,8 @@
-# barber-brian
+# Barber Brian
 A project to showcase my latest skills:
 uses bootstrap, AI and undraw
-design by me (RaduBraniscan.com)
+design & code by RaduBraniscan.com
 
 Software used:
-Visual Studio Code on a PC
+Visual Studio Code on a Windows machine
 Git
