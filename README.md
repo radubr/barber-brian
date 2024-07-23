@@ -2,7 +2,7 @@
 A project to showcase my latest skills. I used WordPress, Elementor plugin, Undraw illustration, Visual Studio Code on a Windows machine, Git, GitHub.
 
 ## How it looks like?
-[Live demo](https://radubraniscan.com/barber-brian-test-page/)
+[Live example](https://radubraniscan.com/barber-brian-test-page/)
 
 ## Steps
 1. Install WordPress
